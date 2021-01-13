@@ -1,0 +1,96 @@
+body{
+  margin: 0;
+}
+.navbar{
+
+  position: fixed;
+  height: 50px;
+  width: 1374px;
+
+}
+.top{
+  background-color: #a7c5eb;
+  margin: -8px;
+  width: 1357px;
+  height: 100px;
+  
+
+}
+
+.middle{
+  background-color: #a7c5eb;
+  position: absolute;
+  width: 1348px;
+  height: 600px;
+  left: 0;
+  top: 90px;
+
+}
+.h1main{
+  color: Black;
+  font-family: cursive,Lucida Handwriting;
+  font-size: 50px;
+  position: absolute;
+  left: 100px;
+  top: 150px;
+}
+.Motto{
+  color: Black;
+  font-family: monospace;
+  font-size: 20px;
+  position: absolute;
+  left: 300px;
+  top:  230px;
+}
+.comp-img{
+  display: inline-block;
+  position: absolute;
+  right: 150px;
+  top:  70px;
+}
+.home{
+  font-size: 20px;
+  color: white;
+  font-family: monospace,monaco;
+  position: fixed;
+  top: 30px;
+  left: 40px;
+  text-decoration: none;
+
+}
+.aboutus{
+  font-size: 20px;
+  color: white;
+  font-family: monospace,monaco;
+  position: fixed;
+  top: 30px;
+  left: 140px;
+  text-decoration: none;
+}
+.contactus{
+  font-size: 20px;
+  color: white;
+  font-family: monospace,monaco;
+  position: fixed;
+  top: 30px;
+  left: 280px;
+  text-decoration: none;
+}
+.insta{
+  width: 50px;
+  height: 50px;
+  position: fixed;
+  top: 10px;
+  left: 1250px;
+}
+
+
+.home:hover{
+  color: #ffcc29;
+}
+.aboutus:hover{
+  color: #ffcc29;
+}
+.contactus:hover{
+  color: #ffcc29;
+}
